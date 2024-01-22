@@ -1,0 +1,16 @@
+## macOS : Command Line Examples 
+
+These examples were completed in the numeric order used in the directory name.
+
+This is not required but this order factors into the overall installation sequence.
+
+The examples are mostly C++, with some Python.
+
+Generally use the simplest already installed tool (*vi, make, python3, pip3, git*).
+
+| Examples | | | | |
+| --- | --- | --- | --- | --- |
+| <img src="mc_01_hello_world/2401-hello_world.png" width=151px><br>[mc_01_hello_world](mc_01_hello_world) | <img src="mc_02_opencv/ocv_sunflower_distances.jpg" width=151px><br>[mc_02_opencv](mc_02_opencv) | <img src="mc_03_eigen/eigen_rotate_2d-scatter_xy-cropped.png" width=151px><br>[mc_03_eigen](mc_03_eigen) | <img src="mc_04_libigl/libigl_blue_noise_sample_surface.jpg" width=151px><br>[mc_04_libigl](mc_04_libigl)  | <img src="mc_05_libsvm/libsvm_orange_classifier-scatter_xyz_rgb-cropped_02.jpg" width=151px><br>[mc_05_libsvm](mc_05_libsvm) |
+| <img src="mc_06_bvh_v1/bvh-virtual_3d_scanner-cropped.jpg" width=151px><br>[mc_06_bvh_v1](mc_06_bvh_v1) | <img src="mc_07_pip3/simplex_noise_2d_200x200.jpg" width=151px><br>[mc_07_pip3](mc_07_pip3) | <img src="mc_08_virtualenv/random_lobster.png" width=151px><br>[mc_08_virtualenv](mc_08_virtualenv) | <img src="mc_09_brew/underwater_surface_structures_of_an_iceberg_in_Svalbard-cropped.jpg" width=151px><br>[mc_09_brew](mc_09_brew) | <img src="mc_10_boost/2024-boost-moon_tone-cropped.jpg" width=151px><br>[mc_10_boost](mc_10_boost) |
+| <img src="mc_11_armadillo/armadillo-thiel-sen_fit_sphere_to_points_3d-cropped.jpg" width=151px><br>[mc_11_armadillo](mc_11_armadillo) | <img src="mc_12_ceres/ceres-display_fit-cropped-02.png" width=151px><br>[mc_12_ceres](mc_12_ceres) | <img src="mc_13_ffmpeg/rotating_earth_boomerang.gif" width=151px><br>[mc_13_ffmpeg](mc_13_ffmpeg) | <img src="mc_14_mlpack/mlpack-spectral_autoencoder-munsell_matte.jpg" width=151px><br>[mc_14_mlpack](mc_14_mlpack) | <img src="mc_15_ensmallen/initial_contours-xy_rgb.png" width=151px><br>[mc_15_ensmallen](mc_15_ensmallen) |
+| <img src="mc_16_cgal/cgal-convex_hull.jpg" width=151px><br>[mc_16_cgal](mc_16_cgal) | <img src="mc_17_ranger/ranger-random_forest-orange_classifier-02.gif" width=151px><br>[mc_17_ranger](mc_17_ranger) | <img src="mc_18_tesseract/camera_image_quality_benchmarking-page_9-cropped.jpg" width=151px><br>[mc_18_tesseract](mc_18_tesseract) | <img src="mc_19_pytorch_midas/Knight_Triceratops_depth-cropped.jpg" width=151px><br>[mc_19_pytorch midas](mc_19_pytorch_midas) | |
