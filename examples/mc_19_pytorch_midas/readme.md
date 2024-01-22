@@ -1,7 +1,7 @@
 
 ## macOS : Command Line Examples -  *PyTorch (MiDaS depth estimation)*
 
-Use the pre-trained [MiDaS depth estimation](https://github.com/isl-org/MiDaS) [PyTorch model](https://pytorch.org/hub/intelisl_midas_v2/) to estimate a depth map from a single input image.
+This example uses the pre-trained [MiDaS depth estimation](https://github.com/isl-org/MiDaS) [PyTorch model](https://pytorch.org/hub/intelisl_midas_v2/) to estimate a depth map from a single input image.
 
 Assume [pip3](../mc_07_pip3) and [venv](../mc_08_virtualenv) already installed. Start with creating and activating a virtual environment :
 
@@ -42,7 +42,7 @@ And the resulting estimated depth map is shown below :
 
 <img src="Knight_Triceratops_depth.jpg">
 
-And when done with example, deactivate the virtual environment :
+And when done with making depth estimates, deactivate the virtual environment :
 
 ```
 deactivate
