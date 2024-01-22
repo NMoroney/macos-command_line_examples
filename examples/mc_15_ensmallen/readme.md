@@ -25,5 +25,5 @@ Which when plotted looks like :
 
 <img src="aligned_contours-xy_rgb.png" width=500px>
 
-Note that the contours are aligned on the origin (0,0) before the optimization.
+Note that both contours are centered on the origin (0,0) before the optimization.
 
