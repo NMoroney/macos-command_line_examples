@@ -29,6 +29,6 @@ This repository is a snap-shot (aka "**note-to-future-self**") on the specifics 
 | [mc 16 cgal](examples/mc_16_cgal) | Compute 3D convex hull of mesh vertices using **CGAL** (5.6). | <img src="examples/mc_16_cgal/cgal-convex_hull.jpg" width=96px> |
 | [mc 17 ranger](examples/mc_17_ranger) | Train another orange classifer using **Ranger**'s (0.16.0) random forests. | <img src="examples/mc_17_ranger/ranger-random_forest-orange_classifier-02.gif" width=96px> |
 | [mc 18 tesseract](examples/mc_18_tesseract) | Apply optical character recognition to an input image using **Tesseract** (5.3.3) | <img src="examples/mc_18_tesseract/camera_image_quality_benchmarking-page_9-cropped.jpg" width=96px> |
-| [mc 19 pytorch midas](examples/mc_19_pytorch_midas) | Derive depth estimates for an input image using the pre-trained **MiDaS PyTorch** model | <img src="examples/mc_19_pytorch_midas/Knight_Triceratops_depth-cropped.jpg" width=96px> |
+| [mc 19 pytorch midas](examples/mc_19_pytorch_midas) | Derive depth estimates for an input image using the pre-trained **MiDaS** (DPT large)  **PyTorch** (1.11.0) model | <img src="examples/mc_19_pytorch_midas/Knight_Triceratops_depth-cropped.jpg" width=96px> |
 
 
