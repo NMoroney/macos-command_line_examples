@@ -44,6 +44,8 @@ And the resulting estimated depth map is shown below :
 
 And when done with making depth estimates, deactivate the virtual environment :
 
+---
+
 ```
 deactivate
 ```
