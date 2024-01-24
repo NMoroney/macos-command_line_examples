@@ -19,5 +19,7 @@ quality metrics that are critical to shape quality include the spatial frequency
 should increase the ability of the observer to see edges and, thus, shape and form in the
 Image Greater quality of shape and form, in ux, provides better camera image quality
 ```
+---
 
+<img src="ADpeCts.png" width=300px>
 
