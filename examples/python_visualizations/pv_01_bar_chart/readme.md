@@ -1,4 +1,4 @@
 
 ## Python Visualizations : Bar Chart
 
-Libraries
+<img src="bar_chart_01.png" width=500px>
