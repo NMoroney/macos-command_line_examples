@@ -1,4 +1,4 @@
 
 ## Pythons Visualizations : Line Plot
 
-<imgs rc="z_loc_line.png" width=500px>
+<img src="z_loc_line.png" width=500px>
