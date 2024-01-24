@@ -25,6 +25,8 @@ A MeshLab visualization of the 3d points and the fitted sphere is below :
 
 <img src="armadillo-thiel-sen_fit_sphere_to_points_3d.jpg" width=500px>
 
+---
+
 median, upwards thumb
 
 
