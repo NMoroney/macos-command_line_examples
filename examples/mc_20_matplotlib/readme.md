@@ -15,4 +15,4 @@ In this case, the [copper colormap](https://matplotlib.org/stable/users/explain/
 
 ---
 
-[walk()](/python_visualizations/)
+[walk()](../python_visualizations/)
