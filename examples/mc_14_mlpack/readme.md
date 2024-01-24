@@ -31,5 +31,7 @@ The resulting view of the 3 dimensional encoding of the Munsell spectra is shown
 
 <img src="mlpack-spectral_autoencoder-munsell_matte.jpg" width=500px>
 
+---
+
 Nifty.
 
