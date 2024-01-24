@@ -65,6 +65,8 @@ The plotted results are below, with the measurements in orange and the fitted fu
 
 <img src="ceres-display_fit.png" width=500px>
 
+---
+
 yeeha
 
 
