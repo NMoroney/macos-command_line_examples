@@ -13,4 +13,6 @@ In this case the [earlier example](../mc_07_pip3/) generating simplex noise is v
 
 In this case, the [copper colormap](https://matplotlib.org/stable/users/explain/colors/colormaps.html) was used with linewidth of 6. 
 
+---
+
 [walk()](python_visualizations)
