@@ -1,4 +1,4 @@
 
-## Python Visualizations : Line Plot
+## Python Visualize
 
-<img src="z_loc_line.png" width=500px>
+Add html table
