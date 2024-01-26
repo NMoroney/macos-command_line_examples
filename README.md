@@ -31,6 +31,8 @@ This repository is a snap-shot (aka "**note-to-future-self**") on the specifics 
 | [mc 18 tesseract](examples/mc_18_tesseract) | Apply optical character recognition to an input image using **Tesseract** (5.3.3). | <img src="examples/mc_18_tesseract/camera_image_quality_benchmarking-page_9-cropped.jpg" width=96px> |
 | [mc 19 pytorch midas](examples/mc_19_pytorch_midas) | Derive depth estimates for an input image using the pre-trained **MiDaS** (DPT large)  **PyTorch** (1.11.0) model. | <img src="examples/mc_19_pytorch_midas/Knight_Triceratops_depth-cropped.jpg" width=96px> |
 | [mc 20 matplotlib](examples/mc_20_matplotlib) | Contour plot simplex noise using **matplotlib** (3.8.2) and automatically create a PNG from input TSV. | <img src="examples/mc_20_matplotlib/contour-simplex_noise-copper-cropped.jpg" width=96px> |
+| [mc 21 stable diffusion cpp](mc_21_stable_diffusion_cpp) | Use [**stable-diffusion.cpp**](https://github.com/leejet/stable-diffusion.cpp) with version 1.4 of the weights to generate "a williow tree at sunset" | <img src="examples/mc_21_stable_diffusion_cpp/sd-a_willow_tree_at_sunset.jpg" width=96px> |
+
 
 
 
