@@ -55,3 +55,8 @@ And then run for a given prompt :
 [INFO]  main.cpp:501  - save result image to 'output.png'
 ```
 
+<img src="sd-a_willow_tree_at_sunset.jpg">
+
+```
+A willow tree at sunset : Stable Diffusion 1.4
+```
