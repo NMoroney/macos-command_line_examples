@@ -69,7 +69,7 @@ For me one major advantage is ease of integration with other libraries and softw
 
 Below shows a result for a stable diffusion sent directly to the [MiDaS depth estimation](../mc_19_pytorch_midas/) and then [FFmpeg](../mc_13_ffmpeg/) for visualization of corresponding features in the two images.
 
-<img src="stable_diffusion_then_depth_estimation.gif" width=400px>
+<img src="stable_diffusion_then_depth_estimation_02.gif" width=400px>
 
 ```
 A red and green coffee mug on a cafe table : Stable Diffusion 1.4
