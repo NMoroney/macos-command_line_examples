@@ -55,7 +55,7 @@ And then run for a given prompt :
 [INFO]  main.cpp:501  - save result image to 'output.png'
 ```
 
-<img src="sd-a_willow_tree_at_sunset.jpg">
+<img src="sd-a_willow_tree_at_sunset.jpg" width=400px>
 
 ```
 A willow tree at sunset : Stable Diffusion 1.4
@@ -63,10 +63,18 @@ A willow tree at sunset : Stable Diffusion 1.4
 
 ---
 
-The above steps are pretty straightforward (but will take +1 GB of memory for the weights) but still why run stable diffusion on your laptop instead of someone else's computer?
+The above steps are pretty straightforward (it will take up +1 GB of memory for the weights) but still why run stable diffusion on your laptop instead of someone else's computer?
 
 For me one major advantage is ease of integration with other libraries and software tools.
 
-Below shows a result for a stable diffusion sent directly to the MiDaS depth estimation and then FFmpeg for visualization of corresponding features in the two images.
+Below shows a result for a stable diffusion sent directly to the [MiDaS depth estimation](../mc_19_pytorch_midas/) and then [FFmpeg](../mc_13_ffmpeg/) for visualization of corresponding features in the two images.
+
+<img src="stable_diffusion_then_depth_estimation.gif" width=400px>
+
+```
+A red and green coffee mug on a cafe table : Stable Diffusion 1.4
+```
+
+The automatically animated overlay really helps me notice more details about both the stable diffusion and the depth estimation.
 
 
