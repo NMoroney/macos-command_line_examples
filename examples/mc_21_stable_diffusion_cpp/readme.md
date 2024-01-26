@@ -1,7 +1,7 @@
 
-## macOS : Command Line Examples - *stable diffusion cpp*
+## macOS : Command Line Examples - *stable diffusion cpp (and depth estimated)*
 
-The [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) repository is Stable Diffusion in pure C/C++.
+The [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) repository is Stable Diffusion implementation in pure C/C++.
 
 First, download the source :
 
