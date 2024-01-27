@@ -1,5 +1,5 @@
 
-## macOS : Command Line Examples - *stable diffusion cpp (and depth estimated)*
+## macOS : Command Line Examples - *stable diffusion cpp (prompt-to-gif pipeline)*
 
 The [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) repository is Stable Diffusion implementation in pure C/C++.
 
