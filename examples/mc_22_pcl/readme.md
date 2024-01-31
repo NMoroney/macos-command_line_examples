@@ -15,5 +15,7 @@ The result below shows the outliers as orange.
 
 Note that with the filter settings, some of the tricerotops horn tips are also selected as outliers.
 
+---
 
+PCL was installed with ```brew install pcl``` - this also installs ```qt``` and ```VTK```.
 
