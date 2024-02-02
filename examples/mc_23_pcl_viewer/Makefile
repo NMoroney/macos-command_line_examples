@@ -2,7 +2,7 @@
 # MIT License 
 #
 
-EXE=pcl_viewer-color_cloud
+EXE=pcl-color_cloud
 
 
 OCV=/usr/local/
@@ -17,8 +17,8 @@ OCVPROC=-lopencv_imgproc
 OCVLIBS=-Wl,-rpath,$(OCVLIB) $(OCVCORE) $(OCVCODEC) $(OCVPROC)
 
 
-EIGEN=/Users/nathan/praktijk/mac_sonoma/mac_03_eigen/eigen-3.4.0
-BOOSTINC=/usr/local/opt/boost/include
+EIGEN=/add/path/to/eigen
+BOOSTINC=/add/path/to/boost
 
 
 PCLINC=/usr/local/opt/pcl/include/pcl-1.13
@@ -45,7 +45,7 @@ LIBRARIES=$(OCVLIBS) $(PCLLIBS) $(VTKLIBS)
 OPT=-std=c++17 -O3 -w
 
 
-color_cloud :
+all :
 	g++ $(OPT) $(EXE).cc $(INCLUDES) $(LIBRARIES) -o $(EXE)
 	./$(EXE)
 
