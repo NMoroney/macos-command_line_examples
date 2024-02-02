@@ -35,7 +35,7 @@ Voila, a depth gif.
 
 ---
 
-As a footnote, what a color conversion for the OpenCV RGB pixel to PCL RGBA point color!
+As a footnote, what a color conversion for the OpenCV BGR pixel to PCL RGBA point color!
 
 ```cpp
         cv::Vec3b pixel = bgr.at<cv::Vec3b>(r, c);
