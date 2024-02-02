@@ -13,7 +13,7 @@ The image below (["Hello" by XU ZHEN®](https://news.stanford.edu/2022/02/04/new
 
 <img src="IMG_7884-hello-640px.jpg" width=400px> 
 
-The PyTorch [MiDaS edpth estimation example](../mc_19_pytorch_midas/) yields the depth estimates below :
+The PyTorch [MiDaS depth estimation example](../mc_19_pytorch_midas/) yields the depth image below :
 
 <img src="IMG_7884-hello-640px_depth.jpg" width=400px>
 
