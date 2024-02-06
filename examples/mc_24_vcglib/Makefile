@@ -1,13 +1,13 @@
-#
-# [2312] [2402]
+# © 2024 : github.com/NMoroney
+# MIT License 
 #
 
 EXE=vcg_04_torus
 
 
-VCG=/Users/nathan/praktijk/mac_sonoma/mac_25_vcglib/vcglib-main
-EIGEN=/Users/nathan/praktijk/mac_sonoma/mac_03_eigen/eigen-3.4.0
-HAPPLY=/Users/nathan/tools/useful/happly
+VCG=/add/path/to/vcglib
+EIGEN=/add/path/to/eigen
+HAPPLY=/add/path/to/happly
 
 OPT=-std=c++17 -O3
 
