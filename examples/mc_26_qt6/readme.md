@@ -27,3 +27,16 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 SOURCES +=  qt6-rgb_color_picker.cc
 ```
 
+The resulting RGB color picker is shown below :
+
+<img src="qt6-rgb_color_picker.jpg">
+
+The example also includes a ```clean.sh``` for conveience :
+
+```
+rm -r qt6-rgb_color_picker.app
+rm Makefile
+rm *.o
+rm .qmake.stash
+```
+
