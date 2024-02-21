@@ -33,6 +33,11 @@ This repository is a snap-shot (aka "**note-to-future-self**") on the specifics 
 | [mc 20 matplotlib](examples/mc_20_matplotlib) | Contour plot simplex noise using **matplotlib** (3.8.2) and automatically create a PNG from input TSV. | <img src="examples/mc_20_matplotlib/contour-simplex_noise-copper-cropped.jpg" width=96px> |
 | [mc 21 stable diffusion cpp](examples/mc_21_stable_diffusion_cpp) | Use [**stable-diffusion.cpp**](https://github.com/leejet/stable-diffusion.cpp) with version 1.4 of the weights and integrate with depth estimation and FFmpge. | <img src="examples/mc_21_stable_diffusion_cpp/stable_diffusion_then_depth_estimation_02.gif" width=96px> |
 | [mc 22 pcl](examples/mc_22_pcl) | Filter outliers in a point cloud with the  **Point Cloud Library** (1.13.1). | <img src="examples/mc_22_pcl/pcl-filter_outliers.jpg" width=96px> |
-| [mc 23 pcl_viewer](examples/mc_23_pcl_viewer) | A **PCL** (1.13.1) viewer is used to visualize a color point cloud (and generate a depth gif) | <img src="examples/mc_23_pcl_viewer/pcl-color_cloud-02.jpg" width=96px> |
+| [mc 23 pcl_viewer](examples/mc_23_pcl_viewer) | A **PCL** (1.13.1) viewer is used to visualize a color point cloud (and generate a depth gif). | <img src="examples/mc_23_pcl_viewer/pcl-color_cloud-02.jpg" width=96px> |
 | [mc 24 vcglib](examples/mc_24_vcglib) | Generate a 3D torus using **VCGLib** (2023.12) and save the result as a PLY file. | <img src="examples/mc_24_vcglib/vcglib_torus.jpg" width=96px> |
 | [mc 25 vtk](examples/mc_25_vtk) | **VTK** (9.2.6_5) render the [Z-Anatomy model](https://github.com/LluisV/Z-Anatomy) of the [cardiovascular system](https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX). | <img src="examples/mc_25_vtk/vtk_render_ply.jpg" width=96px> |
+| [mc 26 qt6](examples/mc_26_qt6)  | Create an interactive RGB color picker using **Qt** (6.6.0_1). | <img src="examples/mc_26_qt6/qt6-rgb_color_picker-256.jpg" width=96px> |
+
+
+
+
