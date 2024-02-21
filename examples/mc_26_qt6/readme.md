@@ -31,7 +31,7 @@ The resulting RGB color picker is shown below :
 
 <img src="qt6-rgb_color_picker.jpg">
 
-The example also includes a ```clean.sh``` for conveience :
+The example also includes a ```clean.sh``` for convenience :
 
 ```
 rm -r qt6-rgb_color_picker.app
