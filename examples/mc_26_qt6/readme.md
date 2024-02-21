@@ -17,5 +17,13 @@ qt6-rgb_color_picker.app/Contents/MacOS/qt6-rgb_color_picker
 
 Note the last step of the above, calls compiled application directly [according to the Mac OS Qt app path](https://stackoverflow.com/questions/61669808/how-to-execute-a-qt-app-on-macos-terminal).
 
+The first step of the above uses a *.pro file with qmake, the contents of which are :
 
+```
+TEMPLATE = app
+TARGET = qt6-rgb_color_picker
+QT = core gui
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+SOURCES +=  qt6-rgb_color_picker.cc
+```
 
